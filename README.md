@@ -21,5 +21,11 @@ Currently, two official plugins are available:
 # Youtube Video streaming
 ![image](https://github.com/aaaaaaaaaanil/Movix/assets/110012103/6b9c9fb8-0b1b-4ef2-9dee-281634db539a)
 
+# searching...
+![image](https://github.com/aaaaaaaaaanil/Movix/assets/110012103/52497e2d-98c8-448e-9d97-2327c6b65c33)
+![image](https://github.com/aaaaaaaaaanil/Movix/assets/110012103/39c64276-c0d1-4563-9177-c870868fed8d)
+
+
+
 
 
