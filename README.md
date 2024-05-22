@@ -8,8 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # To Run 
-   npm install 
-   npm run dev
+   npm install ..
+   npm run dev..
 
 # Home Page
 ![image](https://github.com/aaaaaaaaaanil/Movix/assets/110012103/17f78f7c-26ca-421e-b8e3-7832e266b626)
